@@ -1,0 +1,19 @@
+{
+  "name": "steam-level-up-website-pro",
+  "version": "1.0.0",
+  "description": "This web app enables website like user interface for generating order via steam level up service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "card",
+    "bot",
+    "website",
+    "levelup",
+    "service",
+    "nodejs"
+  ],
+  "author": "Veljko Vuckovic (Refloow.com)",
+  "license": "MIT"
+}
