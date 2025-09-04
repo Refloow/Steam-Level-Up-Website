@@ -1,0 +1,30 @@
+{
+  "name": "steam-level-up-website-pro-bot",
+  "version": "1.0.0",
+  "description": "Backend delivery handling bot for the professional level up website system.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Refloow/Steam-Level-Up-Website.git"
+  },
+  "keywords": [
+    "Steam",
+    "Trade",
+    "Website",
+    "Webapp",
+    "LevelUpWebsite",
+    "SteamTradeBot",
+    "Level",
+    "steamlevel",
+    "steambot",
+    "stgeamcardbot",
+    "levelbot"
+  ],
+  "author": "Veljko Vuckovic",
+  "license": "MIT",
+  "years": "2025",
+  "homepage": "https://github.com/Refloow/Steam-Level-Up-Website"
+}
